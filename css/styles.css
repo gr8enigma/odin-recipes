@@ -1,14 +1,17 @@
-.main-heading {
+.heading {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
     font-size: 46px;
 }
 
-.main-card {
+.card {
     background-color: #f5f5f7;
+}
+
+.main.card {
     text-align: center;
 }
 
-img {
+.main-image {
     display: block;
     padding-top: 20px;
     margin-left: auto;
@@ -22,7 +25,7 @@ img {
     list-style: url('../img/chef.svg');
 }
 
-a {
+.main-link {
     color: #e08e08;
     font-size: 24px;
     text-decoration: none;
